@@ -13,7 +13,7 @@
 </table>
 
 
-## Welcome to My GitHub Pages
+## Welcome to My HomePage
 
 ### Notes on some papers
 ### Records of some issues
