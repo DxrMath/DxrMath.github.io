@@ -15,5 +15,5 @@
 
 ## Welcome to My GitHub Pages
 
-### Some study notes
-### Some issues records
+### Notes on some papers
+### A record of some issues
