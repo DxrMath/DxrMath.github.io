@@ -14,13 +14,7 @@
 
 
 ## Welcome to My HomePage
-<div id="tab_1">
-    <iframe src="DQ.html"
-            height="500"
-            width="1200"
-            frameborder="0"
-            scrolling="0"
-    ></iframe>
-</div>
+<h2 id="微分求积法及广义积分求积法的学习">
+  </h2>
 ### Notes on some papers
 ### Records of some issues
