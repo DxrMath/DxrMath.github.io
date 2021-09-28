@@ -15,8 +15,4 @@
 
 ## Welcome to My HomePage
 ### Notes on some papers
-<h3 id="微分求积法及广义积分求积法的学习">
-  <a href="DQmethod.html">微分求积法及广义积分求积法的学习</a>
- 
-  </h3>
-
+[微分求积法及广义积分求积法的学习](DQmethod.html)
