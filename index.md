@@ -14,11 +14,9 @@
 
 
 ## Welcome to My HomePage
-<h2 id="微分求积法及广义积分求积法的学习">
-  <a href="DQ.html">微分求积法及广义积分求积法的学习</a>
-  <a class="anchorjs-link"href="#微分求积法及广义积分求积法的学习"aria-label="Anchor">
-    ::after
-    </a>
-  </h2>
 ### Notes on some papers
-### Records of some issues
+<h3 id="微分求积法及广义积分求积法的学习">
+  <a href="DQ.html">微分求积法及广义积分求积法的学习</a>
+ 
+  </h3>
+
