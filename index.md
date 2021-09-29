@@ -15,4 +15,4 @@
 
 ## Welcome to My HomePage
 ### Notes on some papers
-[微分求积法及广义积分求积法的学习](DQ.md)
+[微分求积法及广义积分求积法的学习](https://DxrMath.github.io/DQmethod.html)
