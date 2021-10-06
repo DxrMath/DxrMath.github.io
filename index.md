@@ -16,3 +16,4 @@
 ## Welcome to My HomePage
 ### Notes on some papers
 [微分求积法及广义积分求积法的学习](https://DxrMath.github.io/DQmethod.html)
+[点云语义分割的一些算法学习](https://DxrMath.github.io/点云语义分割.pdf)
